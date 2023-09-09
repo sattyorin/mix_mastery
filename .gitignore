@@ -1,0 +1,5 @@
+crane_x7_description/
+crane_x7_ros/
+rt_manipulators_cpp/
+*.vscode/
+catkin_ws/
